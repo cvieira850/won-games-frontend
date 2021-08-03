@@ -16,6 +16,7 @@
     "build-storybook": "build-storybook -s ./public"
   },
   "dependencies": {
+    "@styled-icons/material": "^10.34.0",
     "next": "11.0.1",
     "next-pwa": "^5.2.23",
     "react": "17.0.2",
